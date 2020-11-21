@@ -1,6 +1,6 @@
 ## Information
 
-* Code Analysis [Document](micro_services/code-analysis.md)
+* Code Analysis [Document](code-analysis.md)
 
 ![](https://raw.github.com/MMOCreators/Terraform/master/graph.svg?sanitize=true)
 
